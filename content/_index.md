@@ -24,7 +24,8 @@ sections:
     content:
       title: News
       text: "
-        **12/2023 [Award]** Awarded [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2023](https://sdsc.sg/fellowship/) <br/>
+        **12/2023 [Tutorial Acceptance]** One tutorial accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/>
+        **12/2023 [Award]** Awarded the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2023](https://sdsc.sg/fellowship/) <br/>
         **11/2023 [Milestone]** Invited to serve as a Reviewer for [TheWebConf'24](https://www2024.thewebconf.org/) <br/>
         **11/2023 [Paper Acceptance]** One paper accepted at [ACM BigData'23](https://bigdataieee.org/BigData2023/) <br/>
         **08/2023 [Milestone]** Invited to serve as a Reviewer for [EMNLP'23](https://2023.emnlp.org/) <br/>
