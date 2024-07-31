@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Ming Shan
-date: 2022-10-24
+date: 2024-07-31
 type: landing
 
 sections:
@@ -26,13 +26,13 @@ sections:
       text: "
         **03/2023** - **[Paper Acceptance]** One workshop paper accepted at [SocialNLP'24](https://sites.google.com/view/socialnlp2024/)<br/> 
         **03/2023** - **[Paper Acceptance]** One demo paper accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/> 
-        **03/2023** - **[Milestone]** Invited to serve as a Program Committee for [ASONAM'24](https://asonam.cpsc.ucalgary.ca/2024/) <br/>
-        **02/2023** - **[Milestone]** Invited to serve as a Reviewer for [ACM MM'24](https://2024.acmmm.org/) <br/>
+        **03/2023** - **[Milestone]** Served as a Program Committee for [ASONAM'24](https://asonam.cpsc.ucalgary.ca/2024/) <br/>
+        **02/2023** - **[Milestone]** Served as a Reviewer for [ACM MM'24](https://2024.acmmm.org/) <br/>
         **12/2023** - **[Paper Acceptance]** One tutorial accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/>
         **12/2023** - **[Award]** Awarded the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2023](https://sdsc.sg/fellowship/) <br/>
-        **11/2023** - **[Milestone]** Invited to serve as a Reviewer for [TheWebConf'24](https://www2024.thewebconf.org/) <br/>
+        **11/2023** - **[Milestone]** Served as a Reviewer for [TheWebConf'24](https://www2024.thewebconf.org/) <br/>
         **11/2023** - **[Paper Acceptance]** One research paper accepted at [ACM BigData'23](https://bigdataieee.org/BigData2023/) <br/>
-        **08/2023** - **[Milestone]** Invited to serve as a Reviewer for [EMNLP'23](https://2023.emnlp.org/) <br/>
+        **08/2023** - **[Milestone]** Served as a Reviewer for [EMNLP'23](https://2023.emnlp.org/) <br/>
         **07/2023** - **[Paper Acceptance]** Three research papers accepted at [ACM MM'23](https://www.acmmm2023.org/) <br/>
         **04/2023** - **[Paper Acceptance]** Two research papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
         **03/2023** - **[Paper Acceptance]** One research paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>

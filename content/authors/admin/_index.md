@@ -26,9 +26,9 @@ bio: My research interests include natural language generation and reasoning, as
 
 # Interests to show in About widget
 interests:
-  - Multimodal
-  - Computational Linguistics
+  - Computational Social Science
   - Explainable Artificial Intelligence
+  - Multimodal Analysis
 
 # Education to show in About widget
 education:
@@ -102,4 +102,6 @@ social:
 highlight_name: true
 ---
 
-I am a third-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg), under the guidance of [Prof. Roy Ka-Wei Lee](https://info.roylee.sg). My research interests lie in the interdisciplinary field of Multimodal Learning and Explainable Artificial Intelligence (XAI), focusing specifically on the detection and explainability of online multimodal hate content on Social Networking Services (SNS).
+I’m currently a fourth-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), under the research guidance of [Prof. Roy Ka-Wei Lee](https://info.roylee.sg/).  I am honoured to receive several prestigious scholarships/awards, including Presidential Doctoral Fellowship Scholarship and the Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024, that support my PhD studies.
+
+My research focus on Computational Social Science with Explainable AI, particularly focusing on explainable approaches for hateful content moderation.
